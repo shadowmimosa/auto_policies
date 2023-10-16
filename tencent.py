@@ -10,19 +10,7 @@ from tencentcloud.vpc.v20170312 import models, vpc_client
 
 from run import run_func
 
-# from config import GROUPS
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-}]
+from config import GROUPS
 
 LOCAL_IP = '0.0.0.0'
 
